@@ -99,6 +99,9 @@ func main() {
 			}
 
 		}
+
+		logger.Info("User successfully invited to channel")
+
 	}
 
 }
